@@ -528,12 +528,29 @@ td {
         opacity: 1 !important;
     }
 
-    .navbar { flex-direction: column; gap: 10px; text-align: center; }
-    .nav { flex-wrap: wrap; justify-content: center; gap: 12px; }
+    .navbar { 
+        flex-direction: row; 
+        gap: 5px; 
+        padding: 10px; 
+    }
+
+    .nav { 
+        flex-wrap: nowrap; 
+        gap: 8px; 
+    }
 
     .logo {
         padding-right: 0;
-        text-align: center;
+        text-align: left;
+        font-size: 16px;
+        white-space: nowrap;
+    }
+
+    .nav a {
+        font-size: 12px;
+        padding: 4px 6px;
+        margin: 0;
+        border-width: 2px;
     }
 
     .l1 > picture > img, .l2 > picture > img, .l3 > picture > img, .l4 > picture > img, .l5 > picture > img,
