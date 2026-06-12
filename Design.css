@@ -456,9 +456,9 @@ input::placeholder {
     .logo { padding-right: 0; text-align: left; }
     .cv { font-size: 4.5vw; }
     .ablt { font-size: 6vw; top: 12%; left: 8%; }
-    .ablt2 { font-size: 2.2vw; top: 25%; left: 8%; max-width: 45vw; }
+    .ablt2 { font-size: 2.2vw; top: 25%; left: 8%; max-width: 38vw; }
     .abst { font-size: 6vw; top: 12%; right: 8%; }
-    .abst2 { font-size: 2.2vw; top: 25%; right: 8%; max-width: 45vw; }
+    .abst2 { font-size: 2.2vw; top: 25%; right: 8%; max-width: 38vw; }
     .ct { font-size: 4vw; top: 8%; left: 50%; transform: translateX(-50%); }
     .cards-wrapper { top: 22%; left: 50%; transform: translateX(-50%); width: 90vw; }
     .box { padding: 20px 15px; }
